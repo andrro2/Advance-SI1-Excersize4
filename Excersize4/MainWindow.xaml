@@ -1,0 +1,13 @@
+﻿<Window x:Class="Excersize4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Excersize4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="499" Margin="159,206,0,0"/>
+
+    </Grid>
+</Window>
